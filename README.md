@@ -1,15 +1,15 @@
 ## Developed By: Kothai K
 ## Register Number: 212222240051
-# Ex.No: 01A PLOT A TIME SERIES DATA
 ###  Date: 
+# Ex.No: 01A PLOT A TIME SERIES DATA
+
 
 # AIM:
-To Develop a python program to Plot a time series data (population/ market price of a commodity
-/temperature.
+To Develop a python program to Plot a time series data for Walmart sales dataset.
+
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
-3. Calculate the mean for the respective column.
 4. Plot the data according to need and can be altered monthly, or yearly.
 5. Display the graph.
 # PROGRAM:
